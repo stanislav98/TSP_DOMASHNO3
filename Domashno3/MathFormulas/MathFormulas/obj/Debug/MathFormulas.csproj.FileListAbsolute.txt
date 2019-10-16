@@ -1,0 +1,13 @@
+D:\za universiteta\TSP\Domashno3\MathFormulas\MathFormulas\bin\Debug\MathFormulas.exe.config
+D:\za universiteta\TSP\Domashno3\MathFormulas\MathFormulas\bin\Debug\MathFormulas.exe
+D:\za universiteta\TSP\Domashno3\MathFormulas\MathFormulas\bin\Debug\MathFormulas.pdb
+D:\za universiteta\TSP\Domashno3\MathFormulas\MathFormulas\obj\Debug\MathFormulas.csprojAssemblyReference.cache
+D:\za universiteta\TSP\Domashno3\MathFormulas\MathFormulas\obj\Debug\MathFormulas.Form1.resources
+D:\za universiteta\TSP\Domashno3\MathFormulas\MathFormulas\obj\Debug\MathFormulas.Properties.Resources.resources
+D:\za universiteta\TSP\Domashno3\MathFormulas\MathFormulas\obj\Debug\MathFormulas.csproj.GenerateResource.cache
+D:\za universiteta\TSP\Domashno3\MathFormulas\MathFormulas\obj\Debug\MathFormulas.csproj.CoreCompileInputs.cache
+D:\za universiteta\TSP\Domashno3\MathFormulas\MathFormulas\obj\Debug\MathFormulas.exe
+D:\za universiteta\TSP\Domashno3\MathFormulas\MathFormulas\obj\Debug\MathFormulas.pdb
+D:\za universiteta\TSP\Domashno3\MathFormulas\MathFormulas\obj\Debug\MathFormulas.Form2.resources
+D:\za universiteta\TSP\Domashno3\MathFormulas\MathFormulas\obj\Debug\MathFormulas.Form3.resources
+D:\za universiteta\TSP\Domashno3\MathFormulas\MathFormulas\obj\Debug\MathFormulas.Form4.resources

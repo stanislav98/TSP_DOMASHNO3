@@ -1,0 +1,10 @@
+D:\za universiteta\TSP\Domashno3\HappyNumbers\HappyNumbers\bin\Debug\HappyNumbers.exe.config
+D:\za universiteta\TSP\Domashno3\HappyNumbers\HappyNumbers\bin\Debug\HappyNumbers.exe
+D:\za universiteta\TSP\Domashno3\HappyNumbers\HappyNumbers\bin\Debug\HappyNumbers.pdb
+D:\za universiteta\TSP\Domashno3\HappyNumbers\HappyNumbers\obj\Debug\HappyNumbers.csprojAssemblyReference.cache
+D:\za universiteta\TSP\Domashno3\HappyNumbers\HappyNumbers\obj\Debug\HappyNumbers.Form1.resources
+D:\za universiteta\TSP\Domashno3\HappyNumbers\HappyNumbers\obj\Debug\HappyNumbers.Properties.Resources.resources
+D:\za universiteta\TSP\Domashno3\HappyNumbers\HappyNumbers\obj\Debug\HappyNumbers.csproj.GenerateResource.cache
+D:\za universiteta\TSP\Domashno3\HappyNumbers\HappyNumbers\obj\Debug\HappyNumbers.csproj.CoreCompileInputs.cache
+D:\za universiteta\TSP\Domashno3\HappyNumbers\HappyNumbers\obj\Debug\HappyNumbers.exe
+D:\za universiteta\TSP\Domashno3\HappyNumbers\HappyNumbers\obj\Debug\HappyNumbers.pdb

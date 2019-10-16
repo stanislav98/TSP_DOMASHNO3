@@ -1,0 +1,10 @@
+D:\za universiteta\TSP\Domashno3\Calendar\Calendar\obj\Debug\Calendar.csprojAssemblyReference.cache
+D:\za universiteta\TSP\Domashno3\Calendar\Calendar\obj\Debug\Calendar.Form1.resources
+D:\za universiteta\TSP\Domashno3\Calendar\Calendar\obj\Debug\Calendar.Properties.Resources.resources
+D:\za universiteta\TSP\Domashno3\Calendar\Calendar\obj\Debug\Calendar.csproj.GenerateResource.cache
+D:\za universiteta\TSP\Domashno3\Calendar\Calendar\obj\Debug\Calendar.csproj.CoreCompileInputs.cache
+D:\za universiteta\TSP\Domashno3\Calendar\Calendar\bin\Debug\Calendar.exe.config
+D:\za universiteta\TSP\Domashno3\Calendar\Calendar\bin\Debug\Calendar.exe
+D:\za universiteta\TSP\Domashno3\Calendar\Calendar\bin\Debug\Calendar.pdb
+D:\za universiteta\TSP\Domashno3\Calendar\Calendar\obj\Debug\Calendar.exe
+D:\za universiteta\TSP\Domashno3\Calendar\Calendar\obj\Debug\Calendar.pdb
